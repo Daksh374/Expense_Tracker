@@ -30,17 +30,6 @@ Charts & Graphs: Recharts
 
 Version Control: Git & GitHub
 
-📂 Project Structure
-Expense-Tracker/
-│-- public/         # Static assets
-│-- src/
-│   │-- components/ # Reusable components
-│   │-- pages/      # Application pages
-│   │-- App.jsx     # Main app component
-│   │-- main.jsx    # Entry point
-│-- package.json    # Dependencies
-│-- README.md       # Project documentation
-
 ⚡ Installation & Setup
 
 Clone the repository
